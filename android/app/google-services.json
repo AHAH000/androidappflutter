@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "501500294902",
+    "project_id": "ahmedapp-2",
+    "storage_bucket": "ahmedapp-2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:501500294902:android:e3c9f29bdd951b9e909ed7",
+        "android_client_info": {
+          "package_name": "com.exm.fa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAG3V9P3KDpEc0thtTPVVEiOy01xO_EKVQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
