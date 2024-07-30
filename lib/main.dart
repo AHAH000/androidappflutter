@@ -4,7 +4,7 @@ import 'package:firstapp/constants/routes.dart';
 //import 'package:firstapp/firebase_options.dart';
 import 'package:firstapp/services/auth/auth_service.dart';
 import 'package:firstapp/views/login_view.dart';
-import 'package:firstapp/views/notes/new_note_view.dart';
+import 'package:firstapp/views/notes/create_update_note_view.dart';
 import 'package:firstapp/views/notes/notes_view.dart';
 import 'package:firstapp/views/register_view.dart';
 import 'package:firstapp/views/verify_email_views.dart';
@@ -28,7 +28,7 @@ void main() async {
         registerRoute: (context) => const RegisterView(),
         notesroute: (context) => const NotesView(),
         verifyEmailroute: (context) => const VerifyEmailView(),
-        newNoteRoute: (context) => const newNotesView(),
+        createOrUpdateNoteRoute: (context) => const CreateUpdateNoteView(),
       },
     ),
   );
