@@ -2,7 +2,7 @@
 import 'package:firstapp/constants/routes.dart';
 import 'package:firstapp/services/auth/auth_exceptions.dart';
 import 'package:firstapp/services/auth/auth_service.dart';
-import 'package:firstapp/utillities/show_error_dialog.dart';
+import 'package:firstapp/utillities/dialogs/error_dialog.dart';
 //import 'package:firstapp/views/verify_email_views.dart';
 import 'package:flutter/material.dart';
 //import 'dart:developer' as devtools show log;
